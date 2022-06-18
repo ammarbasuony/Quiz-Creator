@@ -23,3 +23,7 @@
   max-width: 960px;
   margin: 0 auto;
 }
+
+.Toastify__toast-body {
+  font-family: "Poppins";
+}
